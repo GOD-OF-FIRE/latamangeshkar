@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+.lata{
+  width: 18vw;
+  height: 35vh;
+  border-radius: 50%;
+}
+.head{
+  margin: 0;
+  padding: 0;
+  background-color: coral;
+}
+.title{
+  margin: 0;
+  text-align: center;
+  font-size: 3em;
+  text-shadow: 0 0 20px white;
+}
+.NightAngle{
+  text-align: center;
+  font-size: 2em;
+  color: aliceblue;
+  text-shadow: 0 10px 10px #282c34;
+}
+.Img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.content{
+  background-color: rgb(231, 166, 122);
+}
