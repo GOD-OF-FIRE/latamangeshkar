@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/latamangeshkar/static/css/main.d1443ed9.css",
+    "main.js": "/latamangeshkar/static/js/main.57541526.js",
+    "static/js/787.9415ce40.chunk.js": "/latamangeshkar/static/js/787.9415ce40.chunk.js",
+    "index.html": "/latamangeshkar/index.html",
+    "main.d1443ed9.css.map": "/latamangeshkar/static/css/main.d1443ed9.css.map",
+    "main.57541526.js.map": "/latamangeshkar/static/js/main.57541526.js.map",
+    "787.9415ce40.chunk.js.map": "/latamangeshkar/static/js/787.9415ce40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1443ed9.css",
+    "static/js/main.57541526.js"
+  ]
+}
